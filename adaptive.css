@@ -1,0 +1,55 @@
+@media only screen and (max-width: 1200px){
+    .image-slider{
+        width: 72vw;
+        height: 30vh;
+    }
+    li .text-nav{
+        font-size: 18px;
+        padding: 0px 35px 0px 35px;
+    }
+    li .contacts{
+        padding: 0px 40px 0px 35px; 
+    }
+    .slideshow-container{
+        width: 72vw;
+    }
+    .prev, .next{
+        top: 40%;
+    }
+    .text-reklama{
+        font-size: 18px;
+    }
+    .dot{
+        width: 13px;
+        height: 13px;
+    }
+    .left-content{
+        margin-left: 14vw;
+    }
+    .right-content{
+        margin-right: 14vw;
+    }
+    .text-post{
+        font-size: 14px;
+
+    }
+    .image-post{
+        width: 220px;
+        border-right: 16px solid #8fd99b;
+    }
+    .text-footer{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 992px){
+    
+}
+
+@media only screen and (max-width: 768px){
+    
+}
+
+@media only screen and (max-width: 480px){
+    
+}
